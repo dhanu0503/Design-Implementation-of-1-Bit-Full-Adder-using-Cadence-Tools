@@ -62,17 +62,18 @@ Commands to get into Cadence:
  
 #### iii)	Creating the Symbol for schematic Cell view
 
-•	In the schematic window, execute 
+-	In the schematic window, execute 
    +	Create – Cell view – From Cell view
    +	The cell view from cell view window appears
    +	Check Lib Name, Cell Name, From View name must be schematic Press ok
-•	Now Symbol generation form appears. Click Ok If No changes required
-•	A new window with with default symbol is created.
-•	Edit the symbol if you want to give actual symbol shape else continue.
-•	Execute Create-Cell view-from cell view
-•	Library Name and Cell Name must be same which you have used for schematic. Press OK
-•	Check for the position of pin side.Prss OK
-•	Edit for the shape by Create-Shape-Choose required options to edit.
+     
+-	Now Symbol generation form appears. Click Ok If No changes required
+-	A new window with with default symbol is created.
+-	Edit the symbol if you want to give actual symbol shape else continue.
+-	Execute Create-Cell view-from cell view
+-	Library Name and Cell Name must be same which you have used for schematic. Press OK
+-	Check for the position of pin side.Prss OK
+-	Edit for the shape by Create-Shape-Choose required options to edit.
 
 ![WhatsApp Image 2024-10-19 at 09 47 29_c7113134](https://github.com/user-attachments/assets/1f8967a8-ef9d-4a17-b8ca-8421e9fdc817)
 
