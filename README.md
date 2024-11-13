@@ -16,9 +16,9 @@ Commands to get into Cadence:
   - csh
   - source /cadence/install/cshrc
   - virtuoso   
-#### Procedure for Schematic simulation using Cadence
+#### Procedure for Schematic simulation using Cadence <br/>
 1.	Now two windows must open <br/>
-  i) virtuoso/command interpreter window
+  i) virtuoso/command interpreter window <br/>
   ii) ”Whats New…”
 2.	Close the 2nd window
 3.	Use 1st window i.e virtuoso window (CIW) for further processing.<br/>
