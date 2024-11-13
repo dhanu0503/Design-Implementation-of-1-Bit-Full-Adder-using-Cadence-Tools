@@ -32,6 +32,7 @@ Commands to get into Cadence:
        <br/>
        v.	Analog simulation by spectre
   
+<br>
 
 ### Steps for Schematic Simulation using Cadence:
 #### i)	Procedure for Creating New Library.
