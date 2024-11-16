@@ -26,18 +26,17 @@ Commands to get into Cadence:
   i) virtuoso/command interpreter window <br/>
   ii) ”Whats New…”
 2.	Close the 2nd window
-3.	Use 1st window i.e virtuoso window (CIW) for further processing.<br/>
-       i.	Create a New Library
-  	<br/>
+3.	Use 1st window i.e virtuoso window (CIW) for further processing.
+
+  	   i.	Create a New Library
+  	
        ii.	Create Schematic Cell view.
-       <br/>
+       
        iii.	Create the Symbol for schematic Cell view.
-       <br/>
+      
        iv.	Create the test Cell view.
-       <br/>
+     
        v.	Analog simulation by spectre
-  
-<br>
 
 ### Steps for Schematic Simulation using Cadence:
 #### i)	Procedure for Creating New Library.
